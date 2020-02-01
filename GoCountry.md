@@ -1,15 +1,15 @@
 # GoCountry
 
-GoCountry is an app that will help you know learn fun facts about a country. Whether you would like to learn more about a country you love just for the sake of knowing more about it or you are traveling and you would like to have an idea of the country's social, cultural, and economical facts, GoCountry would have you covered. Simply start typing in the county name and GoCountry will give you suggestions of similar name in case you are not sure how the country name is spelled. Once you hit search, you will be able to see the country's flag and a few facts about it like its leader, where on the map it's located, etc. You can then choose the categories you would like to know more about the country. Those categories would include: Information about its Geographic location, political system, known sports information, etc. As you happiy look up more and more countries, GoCountry will save up to 5 of your most recently researches and you will easily be able to look up the country in the list again. You can also choose to save your search. Ssave as many searches as you wish.
+GoCountry is an app that will help you know learn fun facts about a country. Whether you would like to learn more about a country you love just for the sake of knowing more about it or you are traveling and you would like to have an idea of the country's social, cultural, and economical facts, GoCountry would have you covered. Simply start typing in the county name and GoCountry will give you suggestions of similar name in case you are not sure how the country name is spelled. Once you hit search, you will be able to see the country's flag and a few facts about it like its current leader, where on the map it's located, etc. You can then choose the categories you would like to know more about the country. Those categories would include the country's: Geography, politics, sports, current weather and forecast, etc. You can look up realtime Flights prices, Hotels booking, Restaurants, Attracting locations, as well as currency exchange rates for the country in search. As you happiy look up more and more countries, GoCountry will save up to 5 of your most recently researches and you will easily be able to look up the country in the list again. You can also choose to save your search. Save as many searches as you wish. 
 
 #### Platforn and Libraries
   - **Platform:** Android
   - **APIs:**
-    1. 
-    2. 
-    3. 
-    4. 
-    5. 
+    1. [MetaWheather](https://www.metaweather.com/api/)
+    2. [REST Countries](https://restcountries.eu)
+    3. [Google maps](https://cloud.google.com/maps-platform/maps/)
+    4. [Currency exchange](https://1forge.com/forex-data-api/api-documentation)
+    5. [TripAdvisor](https://rapidapi.com/apidojo/api/tripadvisor1)
 #### Resources needed
   - Database
   - Images 
